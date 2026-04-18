@@ -4,8 +4,8 @@
 var CONFIG = {
   // URL del Google Apps Script Web App
   // Reemplaza con tu URL al publicar el script
-  /*API_URL:
-    'https://script.google.com/macros/s/AKfycbxnS5ZtXE9z5S-4uBeFE4_wjR91ndTL0mQofeRy6sAzSRgnpB1dLV61Bw3aTiN47aYC0g/exec',*/
+  API_URL:
+    'https://script.google.com/macros/s/AKfycbxnS5ZtXE9z5S-4uBeFE4_wjR91ndTL0mQofeRy6sAzSRgnpB1dLV61Bw3aTiN47aYC0g/exec',
   LOCAL_DATA_URL: 'data.json',
   LOCAL_STORAGE_KEY: 'rubrica_evaluaciones_locales',
   TOTAL_SECS: 8,

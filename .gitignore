@@ -1,0 +1,33 @@
+# Dependencias
+node_modules/
+package-lock.json
+yarn.lock
+
+# Entorno
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Build
+dist/
+build/
+
+# Local storage backups
+*.bak
+
+# Evaluaciones exportadas (opcional - descomentar si no quieres versionar exports)
+# evaluaciones-locales-*.json

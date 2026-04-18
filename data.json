@@ -1,0 +1,328 @@
+{
+  "status": "ok",
+  "jurados": [
+    "Prof. Antus Jose",
+    "Prof. Blanca Montenegro",
+    "Prof. Byron Zurita",
+    "Prof. Daniel Beltrán",
+    "Prof. Dayana Bolaños",
+    "Prof. Dayana Villareal",
+    "Prof. Israel Herrera",
+    "Prof. Jorge Chunes",
+    "Prof. Madelaine Obando",
+    "Prof. Oswaldo Aguilar"
+  ],
+  "categorias": ["Junior", "Senior"],
+  "equipos": [
+    {
+      "codigo": "J2-01",
+      "nombre": "(J2-01) Ruta Verde de la Leche: red de acopio inteligente y transporte colaborativo para pequeños productores del Carchi",
+      "categoria": "Junior",
+      "int1": "Ariana Gisell Valenzuela Mejia",
+      "int2": "Alina Anyelit Delgado Villareal",
+      "int3": "Ariana Melisa Anchundia Bedón",
+      "int4": "Tamara Carolina Tigsi Estrada",
+      "int5": "Ipiales Cachimuel Elvis Francisco"
+    },
+    {
+      "codigo": "J2-02",
+      "nombre": "(J2-02) Frío Seguro para Embutidos: sistema básico de aprovisionamiento térmico y distribución primaria para transformadores cárnicos locales",
+      "categoria": "Junior",
+      "int1": "Angeline Jezabel Córdova Gómez",
+      "int2": "Marjorie Anabel López Pastaz",
+      "int3": "Aracelly Elizabeth Salazar Vallejo",
+      "int4": "Alison Mayerli Táquez Mirama",
+      "int5": "Gabriela Cristina Villarreal Romo"
+    },
+    {
+      "codigo": "J2-03",
+      "nombre": "(J2-03) Harina a Tiempo: sistema de aprovisionamiento y reparto urbano para panificación regional",
+      "categoria": "Junior",
+      "int1": "BYRON ANDRES ENRIQUEZ MUÑOZ",
+      "int2": "KATERIN ISABELA JIMENEZ BENAVIDES",
+      "int3": "MARIA JOSE ORTEGA GARCIA",
+      "int4": "KARELYS MISHELL SIMBAÑA DOMINGUEZ",
+      "int5": "DEIVID SANTIAGO BURBANO CRIOLLO"
+    },
+    {
+      "codigo": "J2-04",
+      "nombre": "(J2-04) Fruta sin Golpes: diseño de empaque y transporte para frutas de valor agregado del Carchi",
+      "categoria": "Junior",
+      "int1": "Rosero Pinchao Luis Miguel",
+      "int2": "Toapanta Paspuel Jair Alexander",
+      "int3": "Anderson Ribaldo Farinango Aules",
+      "int4": "Achiña Alajo Alisson Gabriela",
+      "int5": "Valenzuela Cuastumal Jonathan Alexis"
+    },
+    {
+      "codigo": "J2-05",
+      "nombre": "(J2-05) Cosecha a Proceso: coordinación just in time para vegetales frescos y de cuarta gama",
+      "categoria": "Junior",
+      "int1": "Cindy Adamaris Meneses Reascos",
+      "int2": "Fabian Alexander Mejia Fuentes",
+      "int3": "Deysi Nayeli Cuascota Castillo",
+      "int4": "Evelin Paulina Cuascota Cabascango",
+      "int5": "Alex Javier Irua Soto"
+    },
+    {
+      "codigo": "J2-06",
+      "nombre": "(J2-06) Tubérculo a Planta, Alcohol Seguro: abastecimiento agrícola y transporte controlado para almidones y licores",
+      "categoria": "Junior",
+      "int1": "Alison Rubi Tulcán Abalco",
+      "int2": "Arley sebastian Chamorro Villareal",
+      "int3": "Fanny Claris Quishpe Tuquerres",
+      "int4": "Karla Vanessa Castillo Chitan",
+      "int5": "Kerly Dayana Cholca Catuguamba"
+    },
+    {
+      "codigo": "J2-07",
+      "nombre": "(J2-07) Recepción sin Atascos: mejora del flujo logístico de ingreso y salida en microplantas agroindustriales",
+      "categoria": "Junior",
+      "int1": "Dylan Jared Quishpe Cabascango",
+      "int2": "Heidi Pamela Erazo Moreno",
+      "int3": "Julio David Noguera Pantoja",
+      "int4": null,
+      "int5": null
+    },
+    {
+      "codigo": "J2-08",
+      "nombre": "(J2-08) Carga Especial sin Riesgos: solución logística para movilización de mercancías sobredimensionadas o delicadas",
+      "categoria": "Junior",
+      "int1": "Genesis Mishell Apolo Almeida",
+      "int2": "Estefania Salomé Burbano Fuel",
+      "int3": "Josthyn Mateo Gramal Cotacachi",
+      "int4": "Jennifer Aracely Ovato Estrada",
+      "int5": "Ulisess Yahir Pazmiño Jacho"
+    },
+    {
+      "codigo": "J2-09",
+      "nombre": "(J2-09) Microcentro Fronterizo: abastecimiento y distribución de productos regionales en ciudades de frontera",
+      "categoria": "Junior",
+      "int1": "Fueltala Espinoza Jhosua Alexander",
+      "int2": "Guevara Guevara Marco Steven",
+      "int3": "Rosero Puetate Carla Milena",
+      "int4": "Escobar Obando Scarleth Samantha",
+      "int5": "Delgado Montenegro Brenda Ayelen"
+    },
+    {
+      "codigo": "J2-10",
+      "nombre": "(J2-10) Obra sin Faltantes: abastecimiento y transporte escalonado para infraestructura productiva local",
+      "categoria": "Junior",
+      "int1": "Nallely Yomaira Benavides Gutierrez",
+      "int2": "Johan Esteban Mera Reina",
+      "int3": "Helen Mayerli Riascos Muñoz",
+      "int4": "Cristopher Matias Rueda Pérez",
+      "int5": null
+    },
+    {
+      "codigo": "J2-11",
+      "nombre": "(J2-11) Tubérculo a Planta, Alcohol Seguro: abastecimiento agrícola y transporte controlado para almidones y licores",
+      "categoria": "Junior",
+      "int1": "Marvin Ariel Cuestas Cuaran",
+      "int2": "Brenda Tamara Hernandez Moran",
+      "int3": "Jeily Samira Hurtado Peñafiel",
+      "int4": "Carla Mishelle Guerron Morillo",
+      "int5": null
+    },
+    {
+      "codigo": "J3-01",
+      "nombre": "(J3-01) Sistema de Control de Producción, Trazabilidad Digital y Rediseño de Layout para Derivados Lácteos del Carchi",
+      "categoria": "Junior",
+      "int1": "CHAVEZ MARTINEZ STEVEN JOSE",
+      "int2": "OBANDO CISNEROS MELANY ANAHI",
+      "int3": "SISA ANRANGO ALEXIS JORDAN",
+      "int4": "VIVEROS MENDEZ JORDIN JHAIR",
+      "int5": "VACA BRAVO DAYANARA SCARLET"
+    },
+    {
+      "codigo": "J3-03",
+      "nombre": "(J3-03) Gemelo Operativo para Vegetales de Cuarta Gama: Layout de Proceso, Modelado 3D y Base de Datos de Frescura y Lotes",
+      "categoria": "Junior",
+      "int1": "ROBERTH ALEXIS BUITRÓN BUITRÓN",
+      "int2": "LEANDRO DAMIAN TULCAN PASPUEL",
+      "int3": "MARCELO ANDRÉS CHALACÁN REVELO",
+      "int4": "WILMER ARIEL GUAGA NASTACUAZ",
+      "int5": "CUASPA REVELO JHON SEBASTIAN"
+    },
+    {
+      "codigo": "J3-04",
+      "nombre": "(J3-04) Arquitectura de Datos y Rediseño Seguro de Estaciones para la Producción de Almidones y Licores",
+      "categoria": "Junior",
+      "int1": "Alison lisbeth Fueltala Piarpuezan",
+      "int2": "Evelyn Damaris Martinez Quilismal",
+      "int3": "Kelvin Yeltsin Rodriguez Guanotoa",
+      "int4": "Kevin Alexis Jaramillo Guevara",
+      "int5": null
+    },
+    {
+      "codigo": "J3-05",
+      "nombre": "(J3-05) Panificación Inteligente: Diseño de Línea, Producto y Base de Datos para una Producción Continua y Segura",
+      "categoria": "Junior",
+      "int1": "Keyla Darlyn Chiluisa Naranjo",
+      "int2": "Silvia Valeria Manobanda Ceron",
+      "int3": "Katheryn Maylin Cumbal Narvaéz",
+      "int4": "Fernando Santiago Villarreal Guamialamà",
+      "int5": "Esteban Renan Estacio Ponce"
+    },
+    {
+      "codigo": "J4-02",
+      "nombre": "(J4-02) Rediseño de Almacenes y Reparto Urbano Eficiente para Panificación Regional",
+      "categoria": "Junior",
+      "int1": "Duarte Herrera Erick Sebastian",
+      "int2": "Chingal Figueroa Carlos IsraeL",
+      "int3": "López Tulcán Karina Esmeralda",
+      "int4": "Pérez Piarpuezan Jefferson Andy",
+      "int5": "Tobar Moncayo Leandro Alexander"
+    },
+    {
+      "codigo": "J4-03",
+      "nombre": "(J4-03) Trazabilidad de Inventarios Cárnicos y Optimización de Fletes Refrigerados con ERP y Analítica",
+      "categoria": "Junior",
+      "int1": "Changuan Reina Santiago David",
+      "int2": "Chamba Canacuan Diego Stiven",
+      "int3": "Almeida Castillo Michael David",
+      "int4": "Chitan Morales Gabriela Estefania",
+      "int5": null
+    },
+    {
+      "codigo": "S5-01",
+      "nombre": "(S5-01) Optimización Multiobjetivo y Cumplimiento Legal de la Distribución Láctea en el Carchi",
+      "categoria": "Senior",
+      "int1": "Vanessa Scarlett Arcos Ramirez",
+      "int2": "Esteban David Taimal Aza",
+      "int3": "Sheyla Karina Cerón Goméz",
+      "int4": "Wagner Ricardo Patiño Enriquez",
+      "int5": "Alexander David Estrada Quishpe"
+    },
+    {
+      "codigo": "S5-02",
+      "nombre": "(S5-02) Análisis Estadístico de Mermas y Optimización de la Cadena de Suministro Cárnica Nacional",
+      "categoria": "Senior",
+      "int1": "Mariory Lisbeth Garcia Cuastumal",
+      "int2": "Andres Sebastian Buesaco Ceron",
+      "int3": "Estefany Juliette Cuases Guaquez",
+      "int4": "Gisell Valentina Jativa Pizo",
+      "int5": "Sadia Solange Pujota Yumbo"
+    },
+    {
+      "codigo": "S5-03",
+      "nombre": "(S5-03) Diseño Estratégico de un Centro de Consolidación de Vegetales: Eficiencia Matemática y Marco Legal",
+      "categoria": "Senior",
+      "int1": "Mayanquer Erazo Ronnald Damián",
+      "int2": "Arciniegas Vásquez Carlos Manuel",
+      "int3": "Jimenéz Montenegro John Mateo",
+      "int4": "Gaón Curipoma Génesis Concepción",
+      "int5": "Conforme Rosero Luis Dagoberto"
+    },
+    {
+      "codigo": "S5-04",
+      "nombre": "(S5-04) Modelado Logístico para la Distribución Física Internacional de Derivados de Almidones y Licores",
+      "categoria": "Senior",
+      "int1": "Paula Andrea Naranjo Fueltala",
+      "int2": "Miguel Angel Baraja Pineda",
+      "int3": "Antony Alexis Guamá Velasco",
+      "int4": "Edwin Aldair Cevalllos Guamá",
+      "int5": "Carlos Emerson Yaguapaz Recalde"
+    },
+    {
+      "codigo": "S5-05",
+      "nombre": "(S5-05) Simulación de Operaciones de Última Milla y Riesgo Legal en el Transporte Urbano",
+      "categoria": "Senior",
+      "int1": "Alison Nayeli Cueva Imbacuan",
+      "int2": "Dorian Gisell Piarpuezan Tenganan",
+      "int3": "Deyna Gabriela Cabrera Gallo",
+      "int4": "Lesly Nayeli Cuasatar Riascos",
+      "int5": "Maileen Amanda Puetate Puarpezan"
+    },
+    {
+      "codigo": "S6-01",
+      "nombre": "(S6-01) Corredor Intermodal Lácteo Inteligente: red probabilística y optimización de exportación desde el Carchi",
+      "categoria": "Senior",
+      "int1": "Melani Jajaira Guamá Cárdenas",
+      "int2": "Joseph Fernando Benavides Palacios",
+      "int3": "Tamia Micaela Cuasapaz Guiz",
+      "int4": "Bryan Steven Morales Cuasquer",
+      "int5": "Wendy Katherine Chugá Nupán"
+    },
+    {
+      "codigo": "S6-03",
+      "nombre": "(S6-03) Ventana Intermodal Hortofrutícola: diseño de red y consolidación transfronteriza para frutas y vegetales frescos",
+      "categoria": "Senior",
+      "int1": "Ender Fernando Argoti Guerron",
+      "int2": "Juver Edison Benavides Goyes",
+      "int3": "Evelyn Victoria Jaramillo Guachagmira",
+      "int4": "Dayana Gonzalez",
+      "int5": "Fernanda Yuleitzy Zambrano Vargas"
+    },
+    {
+      "codigo": "S6-04",
+      "nombre": "(S6-04) Sincronía Papa–Puerto: planificación intermodal y logística colaborativa para almidones y licores",
+      "categoria": "Senior",
+      "int1": "Robles Aguilar Víctor Manuelle",
+      "int2": "Jhon Lenin Cevallos Álvarez",
+      "int3": "Carlos Eduardo Mejía Sánchez",
+      "int4": "Iván Andrés Montenegro Morillo",
+      "int5": null
+    },
+    {
+      "codigo": "S6-06",
+      "nombre": "(S6-06) Cadena de Frío Cárnica Bajo Incertidumbre: Optimización de rutas y riesgo logístico con evidencia inferencial",
+      "categoria": "Senior",
+      "int1": "Steven Alexander Cuaspud Meneses",
+      "int2": "Luis David Paspuel Cuasquer",
+      "int3": null,
+      "int4": null,
+      "int5": null
+    },
+    {
+      "codigo": "S7-02",
+      "nombre": "(S7-02) Centro Regional Reefer: planificación estratégica y simulación de tráfico para la distribución nacional de cárnicos",
+      "categoria": "Senior",
+      "int1": "Ricardo Daniel Ortiz Aguilar",
+      "int2": "Jennifer Alexandra Calderon Arnero",
+      "int3": "Madelaine Paola Quemac Cuasapud",
+      "int4": "Michael Andres Quishpe Erazo",
+      "int5": "Jordan Alexander Fuentes Agirre"
+    },
+    {
+      "codigo": "S7-04",
+      "nombre": "(S7-04) Proyecto Exportador Intermodal de Derivados: cadena de suministro y simulación de despachos para almidones y licores",
+      "categoria": "Senior",
+      "int1": "Anael Vanessa Mueses Ruano",
+      "int2": "Alexis José Cedeño Inaquiza",
+      "int3": "Alexis Joel Pucuna Condo",
+      "int4": "Alexis Paul Ortiz Lucero",
+      "int5": "María José Calderón Vilañéz"
+    },
+    {
+      "codigo": "S7-05",
+      "nombre": "(S7-05) Microhubs Urbanos Rentables: simulación XR y evaluación de proyectos de última milla para ciudades inteligentes",
+      "categoria": "Senior",
+      "int1": "Franklin Giovanny Peralvo Achiña",
+      "int2": "Cristobal Joel Chilan Hurtado",
+      "int3": "Magaly Yessenia Cuascota Castillo",
+      "int4": "Anthony Jhoel Hurtado Flores",
+      "int5": "Gisela Mayerli Enriquez Jurado"
+    },
+    {
+      "codigo": "S8-01",
+      "nombre": "(S8-01) Exportación Láctea con Estándares de Calidad Global: diseño de una DFI inteligente y trazable para derivados lácteos del Carchi",
+      "categoria": "Senior",
+      "int1": "Pablo Alexis Marcillo Cuascota",
+      "int2": "Gustavo Alexander Fuel de la Cruz",
+      "int3": "Valeria Elizabeth Tarapues Malte",
+      "int4": "karen Mishell Játiva Ruano",
+      "int5": "Jessenia Melani Rosero Esparza"
+    },
+    {
+      "codigo": "S8-03",
+      "nombre": "(S8-03) DFI Hortofrutícola Cero Rechazos: ingeniería de calidad y decisión logística para fruta fresca de exportación",
+      "categoria": "Senior",
+      "int1": "Steven Sebastian Cuaspud Ortega",
+      "int2": "Erika Daniela Erazo Arteaga",
+      "int3": "Andres Alejandro Guaman Jaramillo",
+      "int4": "Jherson Jhair Tanicuchi Obando",
+      "int5": "Hector Joel Lugmania Cuatis"
+    }
+  ]
+}

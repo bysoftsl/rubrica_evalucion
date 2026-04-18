@@ -53,6 +53,7 @@ npx http-server
 ### Cargar datos desde JSON local
 
 Por defecto, `data.json` contiene:
+
 - **10 jurados** profesionales
 - **2 categorías**: Junior, Senior
 - **31 equipos** con sus integrantes
@@ -79,13 +80,13 @@ function doGet() {
         int2: 'Nombre 2',
         int3: null,
         int4: null,
-        int5: null
-      }
-    ]
+        int5: null,
+      },
+    ],
   };
-  return ContentService
-    .createTextOutput(JSON.stringify(datos))
-    .setMimeType(ContentService.MimeType.JSON);
+  return ContentService.createTextOutput(JSON.stringify(datos)).setMimeType(
+    ContentService.MimeType.JSON,
+  );
 }
 
 function doPost(e) {
@@ -128,21 +129,21 @@ Durante pruebas, las evaluaciones se almacenan en el navegador. Puedes:
 - **Limpiar**: Elimine todos los registros locales
 - **Inspeccionar** (consola del navegador):
   ```js
-  JSON.parse(localStorage.getItem('rubrica_evaluaciones_locales'))
+  JSON.parse(localStorage.getItem('rubrica_evaluaciones_locales'));
   ```
 
 ## 🔄 Criterios de Evaluación
 
 ### Configurados en `js/app.js` (RANGOS):
 
-| Criterio | Excelente | Bueno | Básico | Insuficiente |
-|----------|-----------|-------|--------|--------------|
-| 1. Comprensión | 17–20 | 13–16 | 8–12 | 1–7 |
-| 2. Coherencia | 17–20 | 13–16 | 8–12 | 1–7 |
-| 3. Integración | 13–15 | 10–12 | 6–9 | 1–5 |
-| 4. Calidad Doc | 17–20 | 13–16 | 8–12 | 1–7 |
-| 5. Viabilidad | 13–15 | 10–12 | 6–9 | 1–5 |
-| 6. Claridad Video | 8–10 | 6–7 | 4–5 | 1–3 |
+| Criterio          | Excelente | Bueno | Básico | Insuficiente |
+| ----------------- | --------- | ----- | ------ | ------------ |
+| 1. Comprensión    | 17–20     | 13–16 | 8–12   | 1–7          |
+| 2. Coherencia     | 17–20     | 13–16 | 8–12   | 1–7          |
+| 3. Integración    | 13–15     | 10–12 | 6–9    | 1–5          |
+| 4. Calidad Doc    | 17–20     | 13–16 | 8–12   | 1–7          |
+| 5. Viabilidad     | 13–15     | 10–12 | 6–9    | 1–5          |
+| 6. Claridad Video | 8–10      | 6–7   | 4–5    | 1–3          |
 
 **Puntuación máxima: 100 puntos**
 
@@ -157,15 +158,18 @@ Modificar comportamiento en `js/app.js`:
 ## 🚨 Troubleshooting
 
 ### "📄 Datos locales pero quiero API remota"
+
 - Descomenta `API_URL` en `js/app.js`
 - Verifica que Apps Script esté publicado y accesible
 
 ### "CORS Error"
+
 - Esto ocurre si usas HTTP local. Es normal.
 - El proyecto automáticamente carga `data.json` como fallback.
 - Para producción, publica desde el mismo servidor que la API.
 
 ### "No se guardan las evaluaciones"
+
 - Verifica que `localStorage` no esté deshabilitado en navegador
 - En modo privado/incógnito, `localStorage` puede no persistir
 
